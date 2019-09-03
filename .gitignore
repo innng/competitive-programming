@@ -127,3 +127,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/c,c++,linux,windows,visualstudiocode
+
+# Specific files of this repository
+input.in
